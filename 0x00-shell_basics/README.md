@@ -1,1 +1,1 @@
-path name command
+name of current working dir
